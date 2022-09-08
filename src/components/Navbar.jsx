@@ -21,8 +21,8 @@ const Navbar = () => {
 
     </div>
     <div className='flex flex-col  justify-center  items-center '>
-      <h1 className=' text-white font-bold md:text-2xl  text-sm '>Grow up with the best in the industry</h1>
-      <h3 className='text-gray-700 text-xs md:text-xl font-bold'>Come and Join Us </h3>
+      <h1 className=' text-white font-bold text-2xl '>SS industries</h1>
+      <h3 className='text-gray-700  text-xl font-bold'>Grow up with the best in the industry</h3>
     </div>
     </div>
 
